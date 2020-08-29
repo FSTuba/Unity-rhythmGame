@@ -14,3 +14,6 @@
 <br>首先將歌曲的midi檔案放置在**Unity-rhythmGame\rhythmGame_staver_Data\StreamingAssets**資料夾中。
 <br>在該資料夾的songlist.txt中新增一行該歌曲的檔名(不用加.mid)如此該歌曲就會出現在遊戲中。
 <br>遊戲會根據midi檔自動產生譜面因此不須擔心譜面的問題。
+
+## DEMO影片
+https://www.youtube.com/watch?v=KCKerpioiSA
